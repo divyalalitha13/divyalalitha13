@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Divya Lalitha Lingam
-- ⚡ About me - **A Full Stack .NET developer with 2+ years of experience in IT industry. Currently, I am working as a Specialist Programmer at Infosys. I have worked on technologies like TypeScript, Angular, SQL Server, C#, EF Core, ASP.NET Web API, Python, Different Azure cloud services (like Azure Storage Account, Azure CosmosDB, Azure Data Factory, Azure Databricks)**
-- 🌱 I’m currently learning PySpark, pandas
+- ⚡ About me - **Full-stack .NET developer with 4+ years of experience in building scalable web applications. Recently worked at Allegion and previously at Infosys as a Specialist Programmer. Proficient in Angular, TypeScript, .NET Core, C#, EF Core, ASP.NET Web API, MS SQL Server, and Azure services. Experienced in front-end and back-end development, testing (Jasmine, MSTest, MOQ), and code quality tools (SonarQube, Resharper).**
 
 <!-- <h3 align="left">Languages and Tools:</h3> -->
 
